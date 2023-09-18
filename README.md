@@ -5,7 +5,7 @@
 <ol>
   <li>Introduction to Computer Vision. <i>Uploaded</i></li>
   <li>Machine Learning for Computer Vision. <i>Uploaded</i></li>
-  <li>Object Tracking and Motion Detection with Computer Vision. <i>Comming Soon...</i></li>
+  <li>Object Tracking and Motion Detection with Computer Vision. <i>Uploaded</i></li>
 </ol>
 
 
